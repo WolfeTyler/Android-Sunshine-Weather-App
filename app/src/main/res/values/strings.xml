@@ -69,7 +69,7 @@
     </string>
 
     <!-- Weather Conditions (From OpenWeatherMap) -->
-    <string name="condition_2xx">Storm</string>
+    <string name="condition_2xx">Undead Storm</string>
     <string name="condition_3xx">Drizzle</string>
     <string name="condition_500">Light Rain</string>
     <string name="condition_501">Moderate Rain</string>
@@ -78,7 +78,7 @@
     <string name="condition_504">Extreme Rain</string>
     <string name="condition_511">Freezing Rain</string>
     <string name="condition_520">Light Shower</string>
-    <string name="condition_521">Shower</string>
+    <string name="condition_521">Zombie Shower</string>
     <string name="condition_522">Heavy Shower</string>
     <string name="condition_531">Ragged Shower</string>
     <string name="condition_600">Light Snow</string>
